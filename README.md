@@ -114,5 +114,7 @@ Twitter-Sentiment-Analysis/
 
 Made with ❤️ by [Alfaiz Shaikh](https://github.com/AlfaizShaikh03)
 [Saifuddin Shaikh](https://github.com/shaikhsaifuddin-27)
+[Shaikh Mohammed Musa](https://github.com/mohammedmusa1)
+
 
 
